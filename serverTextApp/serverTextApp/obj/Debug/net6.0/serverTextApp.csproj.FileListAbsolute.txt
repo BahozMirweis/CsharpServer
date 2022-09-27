@@ -1,0 +1,15 @@
+C:\Users\bahoz\source\repos\serverTextApp\serverTextApp\bin\Debug\net6.0\serverTextApp.exe
+C:\Users\bahoz\source\repos\serverTextApp\serverTextApp\bin\Debug\net6.0\serverTextApp.deps.json
+C:\Users\bahoz\source\repos\serverTextApp\serverTextApp\bin\Debug\net6.0\serverTextApp.runtimeconfig.json
+C:\Users\bahoz\source\repos\serverTextApp\serverTextApp\bin\Debug\net6.0\serverTextApp.dll
+C:\Users\bahoz\source\repos\serverTextApp\serverTextApp\bin\Debug\net6.0\serverTextApp.pdb
+C:\Users\bahoz\source\repos\serverTextApp\serverTextApp\obj\Debug\net6.0\serverTextApp.csproj.AssemblyReference.cache
+C:\Users\bahoz\source\repos\serverTextApp\serverTextApp\obj\Debug\net6.0\serverTextApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bahoz\source\repos\serverTextApp\serverTextApp\obj\Debug\net6.0\serverTextApp.AssemblyInfoInputs.cache
+C:\Users\bahoz\source\repos\serverTextApp\serverTextApp\obj\Debug\net6.0\serverTextApp.AssemblyInfo.cs
+C:\Users\bahoz\source\repos\serverTextApp\serverTextApp\obj\Debug\net6.0\serverTextApp.csproj.CoreCompileInputs.cache
+C:\Users\bahoz\source\repos\serverTextApp\serverTextApp\obj\Debug\net6.0\serverTextApp.dll
+C:\Users\bahoz\source\repos\serverTextApp\serverTextApp\obj\Debug\net6.0\refint\serverTextApp.dll
+C:\Users\bahoz\source\repos\serverTextApp\serverTextApp\obj\Debug\net6.0\serverTextApp.pdb
+C:\Users\bahoz\source\repos\serverTextApp\serverTextApp\obj\Debug\net6.0\serverTextApp.genruntimeconfig.cache
+C:\Users\bahoz\source\repos\serverTextApp\serverTextApp\obj\Debug\net6.0\ref\serverTextApp.dll

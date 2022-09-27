@@ -1,0 +1,17 @@
+C:\Users\bahoz\source\repos\ClientTextApp\ClientTextApp\bin\Debug\net6.0-windows\ClientTextApp.exe
+C:\Users\bahoz\source\repos\ClientTextApp\ClientTextApp\bin\Debug\net6.0-windows\ClientTextApp.deps.json
+C:\Users\bahoz\source\repos\ClientTextApp\ClientTextApp\bin\Debug\net6.0-windows\ClientTextApp.runtimeconfig.json
+C:\Users\bahoz\source\repos\ClientTextApp\ClientTextApp\bin\Debug\net6.0-windows\ClientTextApp.dll
+C:\Users\bahoz\source\repos\ClientTextApp\ClientTextApp\bin\Debug\net6.0-windows\ClientTextApp.pdb
+C:\Users\bahoz\source\repos\ClientTextApp\ClientTextApp\obj\Debug\net6.0-windows\ClientTextApp.csproj.AssemblyReference.cache
+C:\Users\bahoz\source\repos\ClientTextApp\ClientTextApp\obj\Debug\net6.0-windows\ClientTextApp.Form1.resources
+C:\Users\bahoz\source\repos\ClientTextApp\ClientTextApp\obj\Debug\net6.0-windows\ClientTextApp.csproj.GenerateResource.cache
+C:\Users\bahoz\source\repos\ClientTextApp\ClientTextApp\obj\Debug\net6.0-windows\ClientTextApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bahoz\source\repos\ClientTextApp\ClientTextApp\obj\Debug\net6.0-windows\ClientTextApp.AssemblyInfoInputs.cache
+C:\Users\bahoz\source\repos\ClientTextApp\ClientTextApp\obj\Debug\net6.0-windows\ClientTextApp.AssemblyInfo.cs
+C:\Users\bahoz\source\repos\ClientTextApp\ClientTextApp\obj\Debug\net6.0-windows\ClientTextApp.csproj.CoreCompileInputs.cache
+C:\Users\bahoz\source\repos\ClientTextApp\ClientTextApp\obj\Debug\net6.0-windows\ClientTextApp.dll
+C:\Users\bahoz\source\repos\ClientTextApp\ClientTextApp\obj\Debug\net6.0-windows\refint\ClientTextApp.dll
+C:\Users\bahoz\source\repos\ClientTextApp\ClientTextApp\obj\Debug\net6.0-windows\ClientTextApp.pdb
+C:\Users\bahoz\source\repos\ClientTextApp\ClientTextApp\obj\Debug\net6.0-windows\ClientTextApp.genruntimeconfig.cache
+C:\Users\bahoz\source\repos\ClientTextApp\ClientTextApp\obj\Debug\net6.0-windows\ref\ClientTextApp.dll
